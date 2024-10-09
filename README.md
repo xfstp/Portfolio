@@ -26,6 +26,7 @@ Here are the tools and technologies I use to develop my projects:
 To see my portfolio in action, follow these simple steps:
 
 1. **Clone the repository:**
+   
    ```bash
    git clone https://github.com/your_username/zel0dev-portfolio.git
    cd zel0dev-portfolio
