@@ -17,7 +17,7 @@ body {
     border-radius: 15px;
     text-align: center;
     animation: fadeInContainer 1.5s ease forwards;
-    box-shadow: 0 0 30px #4B0082, 0 0 60px #5B2E91; /* Halo effect around the container */
+    box-shadow: 0 0 30px #4B0082, 0 0 60px #5B2E91;
 }
 
 @keyframes fadeInContainer {
@@ -43,8 +43,8 @@ body {
     overflow: hidden;
     position: relative;
     border-radius: 50%;
-    border: 7px solid black; /* Épaississement de la bordure noire */
-    box-shadow: 0 0 25px #4B0082, 0 0 50px #5B2E91; /* Halo effect around the image */
+    border: 7px solid black;
+    box-shadow: 0 0 25px #4B0082, 0 0 50px #5B2E91;
 }
 
 img {
@@ -91,7 +91,7 @@ p {
     justify-content: center;
     align-items: center;
     background: black;
-    border-radius: 15px; /* Bords arrondis */
+    border-radius: 15px;
     box-shadow: 5px 5px 15px #4B0082, -5px -5px 15px #5B2E91;
     overflow: hidden;
     transition: transform 0.3s, box-shadow 0.3s;
@@ -105,7 +105,7 @@ p {
 .social-media-icon svg {
     width: 50%;
     height: auto;
-    fill: #5B2E91; /* Couleur violette pour le logo */
+    fill: #5B2E91;
     transition: transform 0.3s;
 }
 
